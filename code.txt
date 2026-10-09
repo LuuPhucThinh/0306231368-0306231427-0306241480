@@ -1,6 +1,6 @@
 hello world
-<<<<<<< HEAD
 xin chao Luu Phuc Thinh
-=======
 xin chao Nguyen Thanh Dat
->>>>>>> 0306231368-nguyen-thanh-dat
+0306231368-nguyen-thanh-dat
+xin chao Tran Minh Sang
+0306241480-tran-minh-sang
