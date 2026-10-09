@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 xin chao Luu Phuc Thinh
+=======
+xin chao Nguyen Thanh Dat
+>>>>>>> 0306231368-nguyen-thanh-dat
